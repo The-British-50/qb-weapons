@@ -896,3 +896,10 @@ WeaponAttachments = {
         },
     },
 }
+
+
+            -- Jobs Creator integration (jobs_creator)
+            RegisterNetEvent("qb-weapons:getWeaponsAttachments", function(cb)
+                cb(WeaponAttachments)
+            end)
+        
