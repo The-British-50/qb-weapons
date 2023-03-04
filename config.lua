@@ -36,7 +36,7 @@ Config.DurabilityMultiplier = {
 	['weapon_stone_hatchet'] 		 = 0.15,
 
 	-- Handguns
-	['weapon_pistol'] 				 = 0.15,
+	['weapon_pistol'] 				 = 0.35,
 	['weapon_pistol_mk2'] 			 = 0.15,
 	['weapon_combatpistol'] 		 = 0.15,
 	['weapon_appistol'] 			 = 0.15,
